@@ -1,5 +1,5 @@
 [![Join the team using Discord: https://discord.gg/6zMa4Tp](https://img.shields.io/badge/Discord-collaborate-brightgreen.svg)](https://discord.gg/6zMa4Tp)
-[![Build status](https://ci.appveyor.com/project/DavidMcCabe/simpleflightpathsimulator-ai1q6)](https://ci.appveyor.com/project/DavidMcCabe/simpleflightpathsimulator-ai1q6)
+[![Build status](https://ci.appveyor.com/api/projects/status/07276mey39n8kaob?svg=true)](https://ci.appveyor.com/project/DavidMcCabe/simpleflightpathsimulator)
 
 # Simple Flightpath Simulator
 
@@ -22,4 +22,4 @@ Current project objectives...
 - [AppVeyor](https://www.youtube.com/watch?v=R8OrWVVf5CM) or Travis CI
 - Use of [Key-based](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh) authentication
 - https://www.appveyor.com/
-
+- Explore Unity as a visualisation tool for the front end of the simulator
