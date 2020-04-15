@@ -3,6 +3,7 @@ NAMES
   boost/numeric/odeint.hpp
 PATHS
   ${CMAKE_SOURCE_DIR}/../boost_1_71_0
+  "D:/Chrome Downloads/boost_1_71_0/boost_1_71_0"
 )
 
 set(Boost_VERSION "1.71.0")
