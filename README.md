@@ -1,5 +1,5 @@
 [![Join the team using Discord: https://discord.gg/6zMa4Tp](https://img.shields.io/badge/Discord-collaborate-brightgreen.svg)](https://discord.gg/6zMa4Tp)
-[![Build status](https://ci.appveyor.com/api/projects/status/07276mey39n8kaob?svg=true)](https://ci.appveyor.com/project/DavidMcCabe/simpleflightpathsimulator)
+[![Build status](https://ci.appveyor.com/api/projects/status/07276mey39n8kaob?svg=true)](https://ci.appveyor.com/project/DavidMcCabe/simpleflightpathsimulator-yh3oc)
 
 # Simple Flightpath Simulator
 
@@ -9,8 +9,23 @@ A desktop application for simulating aircraft in three dimensions.
 
 ---
 
-## Group Objectives...
+## Group's Collective Objectives...
+The RRA Team are currently working on a collaborative C++ project on home PCs with the goal of writing a simple engine for simulating Radar Targets. This is an innovation project with opportunities to experience software development from a non-restricted application based development perspective.
 
+Interpersonal/Team Objectives: 
+- Trial free software for remote communication and collaboration 
+- Building inter-team awareness and broadening college support networks
+- Share knowledge/interests in areas related to the Software/Radar domain 
+- Develop using easy to use open-source cloud based tools
+- *Keep work fun* and everyone motivated 
+
+Technical/Company Objectives: 
+- Developing and diversifying our c++ expertise; C++11 or above, GSL... 
+- Practice reuse of commercial grade public C++ libraries 
+- Trial some architecture we were hoping to use in our commercial code
+- Produce some work which might be useful
+
+## Programme Structure
 |**Lean Software Process** | 
 |---|
 |![Software Process Board](./docs/artwork/Trello_16.04.2020/Software-process-board.png) |
