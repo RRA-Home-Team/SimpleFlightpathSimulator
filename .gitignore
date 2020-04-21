@@ -2,6 +2,7 @@
 build/
 .vscode
 .DS_Store
+<<<<<<< HEAD
 *.d
 
 # Compiled Object files
@@ -31,5 +32,7 @@ build/
 
 # Executables
 *.exe
-*.out
 *.app
+*.out
+=======
+>>>>>>> develop
