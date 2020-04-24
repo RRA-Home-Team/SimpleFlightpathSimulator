@@ -68,7 +68,7 @@ TEST_CASE("Speeds are calulated correctly", "[velocity]") {
 	}
 
 	SECTION("distance/time calulation is correct") {
-		Geometry3D::Position p0(0., 0., 0.);
+		Geometry3D::Position p0(0., 0., 1.);
 		Geometry3D::Position p1(1., 1., 1.);
 		Geometry3D::Velocity vExpected(2., 2., 0.);
 		Geometry3D::Velocity vEActual = Geometry3D::Velocity::from(p0, p1, 0.5);
